@@ -1,1 +1,5 @@
 # Codveda_Technologies
+
+1. Task_1 IRIS CLASSIFICATION
+2. Task_2 STOCK PREDICTON
+3. Task_3 HOUSE PREDICTION
